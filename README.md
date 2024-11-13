@@ -10,7 +10,7 @@
 </p>
 
 <div align="right">
-    <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDNrYmNhdjNibGVzangzMW1nenp3OGd6aXlvYXc3OXFxbDduZ3ZrMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.webp" alt="coding-gif" width="200" height="200" />
+    <img align="right" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding-gif" width="350" height="250" />
 </div>
     
 </div>
