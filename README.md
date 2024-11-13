@@ -1,3 +1,5 @@
+![logo](https://github.com/FarhanAlam-Official/FarhanAlam-Official/blob/main/Github-Banner.png)
+
 <h1 align="center">Hi 👋, I'm Farhan Alam</h1>
 <h3 align="center">
     A tech enthusiast and aspiring entrepreneur with a love for coding, films, and books. Constantly exploring new ideas, Let’s connect and build something great!
