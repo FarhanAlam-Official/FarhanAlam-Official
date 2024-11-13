@@ -7,7 +7,7 @@
     <img src="https://komarev.com/ghpvc/?username=farhanalam-official&label=Profile%20views&color=0e75b6&style=flat" alt="farhanalam-official" /> 
 </p>
 
-<div align="center">
+<div align="right">
     <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDNrYmNhdjNibGVzangzMW1nenp3OGd6aXlvYXc3OXFxbDduZ3ZrMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.webp" alt="coding-gif" width="200" height="200" />
 </div>
     
