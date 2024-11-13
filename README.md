@@ -104,6 +104,5 @@
 <div align="center">
     <img style="display: inline-block; height: 200px; width: 40%;" src="https://github-readme-stats.vercel.app/api?username=farhanalam-official&show_icons=true&locale=en" alt="GitHub Stats" />
     <img style="display: inline-block; height: 200px; width: 40%;" src="https://github-readme-streak-stats.herokuapp.com/?user=farhanalam-official" alt="Streak Stats" />
-    <img style="display: inline-block; align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=farhanalam-official&show_icons=true&locale=en&layout=compact" alt="farhanalam-official" />
 </div>
 
