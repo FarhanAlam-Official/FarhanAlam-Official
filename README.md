@@ -10,7 +10,6 @@
 </p>
 
 <h3>🔧 About Me:</h3>
-<br>
 
 - 🔭 I’m currently working on **Oxford College Website Redesign**
 
