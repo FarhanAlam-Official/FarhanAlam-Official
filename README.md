@@ -9,12 +9,6 @@
     <img src="https://komarev.com/ghpvc/?username=farhanalam-official&label=Profile%20views&color=0e75b6&style=flat" alt="farhanalam-official" /> 
 </p>
 
-<div align="right">
-    <img align="right" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding-gif" width="350" height="250" />
-</div>
-    
-</div>
-
 <h3>🔧 About Me:</h3>
 <br>
 
@@ -29,8 +23,13 @@
 - ⚡ Fun fact **I am a Cinephile**
 
 ---
+<div align="right">
+    <img align="right" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding-gif" width="300" height="200" />
+</div>
+
 
 <h3>🌐 Connect with me:</h3>
+<br>
 <br>
 <p align="left">
     <a href="https://linkedin.com/in/farhan-alam-aa56b2309" target="blank">
@@ -46,6 +45,8 @@
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="farhanalam01" height="30" width="40" />
     </a>
 </p>
+<br>
+<br>
 <br>
 
 ---
