@@ -1,4 +1,4 @@
-![logo](https://github.com/FarhanAlam-Official/FarhanAlam-Official/blob/main/Github-Banner.png)
+![logo](https://github.com/FarhanAlam-Official/FarhanAlam-Official/blob/main/Github-Banner-Gif.gif)
 
 <h1 align="center">Hi 👋, I'm Farhan Alam</h1>
 <h3 align="center">
