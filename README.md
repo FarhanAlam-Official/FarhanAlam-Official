@@ -8,7 +8,9 @@
 </p>
 
 <div align="center">
-    <img align="right" src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*7Q3yvSIv_t0ioJ-Z.gif" alt="coding-gif" width="300" />
+    <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDNrYmNhdjNibGVzangzMW1nenp3OGd6aXlvYXc3OXFxbDduZ3ZrMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.webp" alt="coding-gif" width="200" height="200" />
+</div>
+    
 </div>
 
 - 🔭 I’m currently working on **Oxford College Website Redesign**
