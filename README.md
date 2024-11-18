@@ -111,7 +111,7 @@
 
 ---
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<div>
     <img  src="https://github-readme-stats.vercel.app/api?username=farhanalam-official&show_icons=true&locale=en" alt="GitHub Stats" />
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=farhanalam-official" alt="Streak Stats" />
 </div>
