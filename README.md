@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👯 I’m looking to collaborate on **Oxford College Website Redesign**
+- 👯 I’m looking to collaborate on **BCA-Study-Nepal**
 
 - 📫 How to reach me **thefarhanalam01@gmail.com**
 
