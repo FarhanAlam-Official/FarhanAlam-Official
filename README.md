@@ -112,8 +112,8 @@
 ---
 
 <div style="display: flex;">
-    <img width="47.5%" src="https://github-readme-stats.vercel.app/api?username=farhanalam-official&show_icons=true&locale=en" alt="GitHub Stats" />
-    <img width="47.5%"  src="https://github-readme-streak-stats.herokuapp.com/?user=farhanalam-official" alt="Streak Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=farhanalam-official&show_icons=true&locale=en" alt="GitHub Stats" />
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=FarhanAlam-Official" alt="GitHub Streak" /></a>    
 </div>
 <br> <br>
 
