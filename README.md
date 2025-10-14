@@ -11,11 +11,11 @@
 
 <h3>🔧 About Me:</h3>
 
-- 🔭 I’m currently working on **Oxford College Website Redesign**
+- 🔭 I’m currently working on **OCEM Sports Hub**
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👯 I’m looking to collaborate on **BCA-Study-Nepal**
+- 👯 I’m looking to collaborate on **OCEM Sports Hub**
 
 - 📫 How to reach me **thefarhanalam01@gmail.com**
 
