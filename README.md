@@ -11,11 +11,11 @@
 
 <h3>🔧 About Me:</h3>
 
-- 🔭 I’m currently working on **OCEM Sports Hub**
+- 🔭 I’m currently working on **deessa Foundation**
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👯 I’m looking to collaborate on **OCEM Sports Hub**
+- 👯 I’m looking to collaborate on **deessa Foundation Website**
 
 - 📫 How to reach me **thefarhanalam01@gmail.com**
 
